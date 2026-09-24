@@ -1,2 +1,7 @@
 Cali Bucaramanga Bogotá medellín armenia
+<<<<<<< HEAD
 Floridablanca
+=======
+juansitasita
+
+>>>>>>> 0bef848464bb7309bd885e93246e69559cab794c
